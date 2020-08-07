@@ -1,0 +1,2 @@
+based on guide:
+https://www.redmine.org/projects/redmine/wiki/Plugin_Tutorial
